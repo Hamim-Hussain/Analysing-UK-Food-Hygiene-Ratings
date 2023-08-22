@@ -1,6 +1,8 @@
 # **Analysing UK Food Hygiene Ratings**
 <img src="images/food.JPG" width="1000" height="491">
 
+## Introduction
+In this analysis, I delve into UK Food Hygiene Ratings data to assist Eat Safe, Love magazine. With the aim of guiding their food critics, I explore establishments' ratings, focusing on hygiene, location, and scores. Through MongoDB, I initiate the database setup, load data, and make necessary updates. Subsequently, I tackle exploratory queries, such as identifying hygiene scores of 20, high-rated establishments in London, top-rated eateries near "Penang Flavours," and localities with hygiene score 0. My goal is to uncover valuable insights, guiding the magazine's content selection and ensuring readers' food safety awareness.
 
 **Part 1: Database and Setup**
 1. Import the data from establishments.json into the "uk_food" database and the "establishments" collection. 
