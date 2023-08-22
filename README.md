@@ -1,4 +1,4 @@
-# **Analyzing UK Food Hygiene Ratings**
+# **Analysing UK Food Hygiene Ratings**
 
 **Part 1: Database and Setup**
 1. Import the data from establishments.json into the "uk_food" database and the "establishments" collection. 
